@@ -1,7 +1,7 @@
 import React from 'react';
 import './Form.css';
 
-
+//Class Component
 class Classform extends React.Component {
     constructor() {
       super();

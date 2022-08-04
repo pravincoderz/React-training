@@ -1,6 +1,8 @@
 import { useState } from "react";
 import './Form.css';
 
+//Functional Component
+
 function Form() {
 
   const initialvalues = {name:"",email:"",phone:"",message:""}
